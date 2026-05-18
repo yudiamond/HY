@@ -1,6 +1,6 @@
 return {
     "nuyuldulu",
-    "PlayerDua",
+    "ichoo269",
     "PlayerTiga",
     "PlayerEmpat",
     "PlayerLima",
