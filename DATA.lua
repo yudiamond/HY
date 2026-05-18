@@ -1,5 +1,5 @@
 return {
-    "PlayerSatu",
+    "nuyuldulu",
     "PlayerDua",
     "PlayerTiga",
     "PlayerEmpat",
