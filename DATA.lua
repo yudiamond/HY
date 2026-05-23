@@ -1,7 +1,7 @@
 return {
     "nuyuldulu",
     "ichoo269",
-    "PlayerTiga",
+    "KINGxKEPET",
     "PlayerEmpat",
     "PlayerLima",
     "PlayerEnam",
